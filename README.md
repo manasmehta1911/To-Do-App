@@ -6,11 +6,11 @@ Features
 -Minimal CSS styling for an easy-to-improve UI.
 
 Steps: 
-1 Create and activate a virtual environment (recommended):
+- 1 Create and activate a virtual environment (recommended):
     python -m venv .venv
     .venv\Scripts\activate     
-2 Install dependencies:
+- 2 Install dependencies:
     pip install Flask
-3 Run the app:
+- 3 Run the app:
     python app.py
-4 Open your browser at http://127.0.0.1:5000 to view your TODO list.
+- 4 Open your browser at http://127.0.0.1:5000 to view your TODO list.
