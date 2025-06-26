@@ -10,7 +10,7 @@ Steps:
     - python -m venv .venv
     - .venv\Scripts\activate     
 - Install dependencies:
-    pip install Flask
+    - pip install Flask
 - Run the app:
-    python app.py
+    - python app.py
 - Open your browser at http://127.0.0.1:5000 to view your TODO list.
